@@ -1,2 +1,2 @@
 # PHP Website Blog
- A blog created using PHP and SQL
+Source: https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog
